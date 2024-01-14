@@ -1,0 +1,28 @@
+body{
+    background:  blue;
+    }
+
+    .heading{
+        font-size: 30px;
+        padding: 10px;
+        letter-spacing: 5px;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-weight: bold;
+        font-style: italic;
+        text-shadow: 2px 2px cyan;
+    }
+    
+    .name_of_objects
+    {
+        color: greenyellow;
+        font-size: 20px;
+    }
+
+    #camera
+    {
+        
+     width:350px;
+    height:275px;
+    border-color: black;
+    border-style: groove;
+    }
